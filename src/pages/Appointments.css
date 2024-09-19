@@ -1,0 +1,21 @@
+/* Appointments.css */
+h2, h3 {
+  color: #333;
+}
+
+.form-control {
+  border-radius: 0.25rem;
+  border-color: #ced4da;
+}
+
+.table {
+  margin-top: 2rem;
+}
+
+.table th, .table td {
+  text-align: center;
+}
+
+.table thead {
+  background-color: #f8f9fa;
+}
